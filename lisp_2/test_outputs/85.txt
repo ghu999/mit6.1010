@@ -1,0 +1,1 @@
+{'ok': True, 'output': '(cons -100 (cons -40 (cons 40 (cons 100 ()))))'}

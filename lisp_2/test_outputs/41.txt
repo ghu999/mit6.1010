@@ -1,0 +1,10 @@
+[
+{'ok': True, 'output': '(cons 1 (cons 2 (cons 3 (cons 4 ()))))'},
+{'ok': True, 'output': '(cons 1 (cons 2 (cons 3 (cons 4 ()))))'},
+{'ok': True, 'output': '(cons 1 ())'},
+{'ok': True, 'output': '()'},
+{'ok': True, 'output': '()'},
+{'ok': False, 'type': 'SchemeEvaluationError'},
+{'ok': False, 'type': 'SchemeEvaluationError'},
+{'ok': False, 'type': 'SchemeEvaluationError'},
+]

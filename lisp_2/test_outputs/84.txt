@@ -1,0 +1,9 @@
+[
+{'ok': True, 'output': '(cons -1 (cons 2 (cons -3 (cons 4 (cons -5 (cons 6 (cons -7 (cons 8 ()))))))))'},
+{'ok': True, 'output': 85},
+{'ok': True, 'output': '(cons -1 (cons 2 (cons -3 (cons 4 (cons -5 (cons 6 (cons -7 (cons 8 ()))))))))'},
+{'ok': True, 'output': 271},
+{'ok': True, 'output': 82},
+{'ok': True, 'output': 37},
+{'ok': True, 'output': '(cons 2 (cons 2 (cons 1 (cons 2 (cons 3 (cons 2 (cons 34 ())))))))'},
+]
